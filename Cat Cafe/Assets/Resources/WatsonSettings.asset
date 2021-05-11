@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e030247e3a99e44a950edca6224e0e6, type: 3}
+  m_Name: WatsonSettings
+  m_EditorClassIdentifier: 
+  Assistant_apikey: jFWZE3aXG7A2C3tMWWn7jCo91mGf3ToGHam9kxbXrqOj
+  serviceUrl: https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/5323fe25-67ee-45fa-83f5-2eb5806c04b1
+  versionDate: 2020-09-24
+  assistantId: d14bbc55-3a36-43d8-9d8c-ca810d117550
+  tts_apikey: rNbZrHYa4us4UrX0TlaN-AgeZkvfNqWwXhHhm8vPuD0Z
+  tts_serviceUrl: https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/623a6607-7005-4d5c-af22-91da3c875cc1
+  stt_apikey: CY96V_QKdTohdG2tbKZSGK68HGHgc0Lu7W2FTfbdQ0Tv
+  stt_serviceUrl: https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/063fd394-26a1-44de-bb6e-0945e6f45df5
